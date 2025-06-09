@@ -54,7 +54,7 @@ I’m passionate about building intelligent, scalable solutions that automate wo
 - 🧾 **Invoice & Bank Document Data Extraction (Private / Work Project)**  
   Developed ML models using linear regression and SVM with TF-IDF vectorizers to accurately extract key fields from financial documents.
 
-- 🔄 **Database Migration & Automation Scripts**  
+- 🔄 **Database Migration & Automation Scripts (Private / Work Project)**  
   Designed and implemented a robust Python + SQLAlchemy migration utility that takes a job name as input, loads job configuration, and migrates entire tables accordingly.  
   Developed scripts to enable data transfer between two versions of an application using PostgreSQL and MSSQL.  
   Built an automated script to create databases with a defined schema directly from UI input.  

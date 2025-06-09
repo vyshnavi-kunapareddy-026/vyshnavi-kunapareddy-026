@@ -30,6 +30,8 @@ I’m passionate about building intelligent, scalable solutions that automate wo
 🛠 **Technical Skills & Tools**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-black?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikit-learn)
 ![pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
@@ -40,6 +42,10 @@ I’m passionate about building intelligent, scalable solutions that automate wo
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-black?style=flat-square&logo=microsoftsqlserver)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux%20Commands-black?style=flat-square&logo=linux)
+
 
 ---
 

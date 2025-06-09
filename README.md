@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **vyshnavi-kunapareddy-026/vyshnavi-kunapareddy-026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

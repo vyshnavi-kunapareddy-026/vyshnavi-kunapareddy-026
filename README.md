@@ -45,7 +45,7 @@ I’m passionate about building intelligent, scalable solutions that automate wo
 
 📌 **Featured Projects**
 
-- 🔍 [Resume Keyword Matcher](https://github.com/vyshnavi-kunpareddy-026/resume-keyword-matcher)  
+- 🔍 [Resume Keyword Matcher](https://github.com/vyshnavi-kunapareddy-026/resume-keyword-matcher)  
   An NLP-powered tool to match resumes with job descriptions using fuzzy matching and weighted scoring.
 
 - 🧾 **Invoice & Bank Document Data Extraction (Private / Work Project)**  

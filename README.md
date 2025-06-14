@@ -52,7 +52,7 @@ I’m passionate about building intelligent, scalable solutions that automate wo
 📌 **Featured Projects**
 
 - 🧾 **Invoice & Bank Document Data Extraction (Private / Work Project)**  
-  Developed ML models using linear regression and SVM with TF-IDF vectorizers to accurately extract key fields from financial documents.
+Developed machine learning models using Linear Regression and SVM with TF-IDF vectorization to accurately extract key fields from financial documents. Managed end-to-end workflows including data collection, cleaning, training, and model tuning, which improved extraction accuracy from 50% to 75%. Deployed the final model as a microservice for efficient and scalable integration.
 
 - 🔄 **Database Migration & Automation Scripts (Private / Work Project)**  
   Designed and implemented a robust Python + SQLAlchemy migration utility that takes a job name as input, loads job configuration, and migrates entire tables accordingly.  

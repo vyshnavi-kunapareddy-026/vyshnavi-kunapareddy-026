@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 🎯 **About Me**  
 I’m a Python developer with 2 years of experience specializing in machine learning, API development, and microservice-based architectures.  
-I have hands-on experience applying ML techniques such as **linear regression**, **SVM**, and **TF-IDF vectorizers** to extract and analyze data from financial documents like invoices and bank statements.  
+I have hands-on experience applying ML techniques such as **logistic regression**, **SVM**, and **TF-IDF vectorizers** to extract and analyze data from financial documents like invoices and bank statements.  
 In addition, I’ve worked extensively with databases including **MSSQL** and **PostgreSQL**, developing efficient scripts for data migration and management.  
 I’m passionate about building intelligent, scalable solutions that automate workflows and solve real-world business problems.
 

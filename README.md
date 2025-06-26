@@ -59,8 +59,29 @@ Developed machine learning models using Linear Regression and SVM with TF-IDF ve
   Developed scripts to enable data transfer between two versions of an application using PostgreSQL and MSSQL.  
   Built an automated script to create databases with a defined schema directly from UI input.  
   Worked extensively on writing **triggers**, **functions**, **views**, and optimizing **SQL queries** for performance across PostgreSQL and MSSQL.
+-  🤖 [**Smart Resume Parser + Job Recommender**](https://github.com/vyshnavi-kunapareddy-026/smart_resume_parser_job_recommender)
+  Built a full-stack system using **FastAPI** that parses resumes (PDF/DOCX), extracts relevant fields using NER models and custom regex, and recommends jobs using real-time job APIs like **Adzuna**/**JobSpy**.  
+  - ✅ Integrated **spaCy** & **HuggingFace Transformers** for name, education, and experience extraction  
+  - 📄 Used **PyMuPDF** for layout-based resume sectioning  
+  - 🧠 Matched skills with a weighted skill list to recommend roles  
+  - 🌐 Supports **live job recommendations** through external APIs with filters  
 
 
+---
+### 🏆 Certifications & Badges
+
+#### 📚 Google Developer Profile  
+[![Google ML Badge](https://developers.google.com/machine-learning/crash-course/images/social-share.png)](https://developers.google.com/profile/u/110040434782534707972)
+
+- Completed Google’s Machine Learning Crash Course with hands-on TensorFlow labs.
+- See more badges on [my full Google Developer profile](https://developers.google.com/profile/u/110040434782534707972).
+---
+
+#### 🎓 Microsoft Learn Achievements
+
+- [![Badge 1](https://learn.microsoft.com/api/achievements/share/en-us/vyshnavikunapareddy-0577/QS8Z7N4E?sharingId=8E330A681AA60D0D)](https://learn.microsoft.com/en-us/users/vyshnavikunapareddy-0577/achievements/QS8Z7N4E)
+
+- [![Badge 2](https://learn.microsoft.com/api/achievements/share/en-us/vyshnavikunapareddy-0577/7kcxn8nz?sharingId=8E330A681AA60D0D)](https://learn.microsoft.com/en-us/users/vyshnavikunapareddy-0577/achievements/7kcxn8nz)
 ---
 
 📈 **GitHub Stats**

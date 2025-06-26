@@ -71,8 +71,6 @@ Developed machine learning models using Linear Regression and SVM with TF-IDF ve
 ### 🏆 Certifications & Badges
 
 #### 📚 Google Developer Profile  
-[![Google ML Badge](https://developers.google.com/machine-learning/crash-course/images/social-share.png)](https://developers.google.com/profile/u/110040434782534707972)
-
 - Completed Google’s Machine Learning Crash Course with hands-on TensorFlow labs.  
 - See more badges on [my full Google Developer profile](https://developers.google.com/profile/u/110040434782534707972).
 

@@ -81,6 +81,7 @@ Developed machine learning models using Linear Regression and SVM with TF-IDF ve
 
 #### DeepLearning.AI Courses
 - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/accomplishments/8b9737ba-0ac5-49f0-8b50-2c738d6a55a2?usp=sharing)
+---
 
 📈 **GitHub Stats**
 

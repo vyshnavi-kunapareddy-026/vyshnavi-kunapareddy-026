@@ -79,6 +79,9 @@ Developed machine learning models using Linear Regression and SVM with TF-IDF ve
 - 🟦 [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/vyshnavikunapareddy-0577/achievements/7kcxn8nz)
 ---
 
+#### DeepLearning.AI Courses
+- [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/accomplishments/8b9737ba-0ac5-49f0-8b50-2c738d6a55a2?usp=sharing)
+
 📈 **GitHub Stats**
 
 <p align="center">

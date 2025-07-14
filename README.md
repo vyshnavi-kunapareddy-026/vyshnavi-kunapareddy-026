@@ -75,8 +75,8 @@ Developed machine learning models using Linear Regression and SVM with TF-IDF ve
 
 #### 🎓 Microsoft Learn Achievements
 
-- 🟦 [AI-900: Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/vyshnavikunapareddy-0577/achievements/QS8Z7N4E)
-- 🟦 [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/vyshnavikunapareddy-0577/achievements/7kcxn8nz)
+- 🟦 [Introduction to machine learning](https://learn.microsoft.com/en-us/users/vyshnavikunapareddy-0577/achievements/QS8Z7N4E)
+- 🟦 [Introduction to generative AI concepts](https://learn.microsoft.com/en-us/users/vyshnavikunapareddy-0577/achievements/7kcxn8nz)
 ---
 
 #### DeepLearning.AI Courses
